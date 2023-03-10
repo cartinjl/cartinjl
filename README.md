@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yaakova
+- 👋 Hi
 - 👀 I’m interested in coding, dungeons and dragons, and my dogs
 - 🌱 I’m currently learning how to keep track of my passwords so I don't keep remaking these, haha
 - 💞️ I’m looking to collaborate on anything
